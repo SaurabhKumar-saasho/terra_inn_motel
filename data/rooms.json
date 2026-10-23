@@ -1,0 +1,113 @@
+[
+  {
+    "id": "king-room-non-smoking",
+    "title": "King Room - Non-Smoking",
+    "description": "King Room - Non-Smoking - Ground Floor",
+    "accommodates": 4,
+    "price": "$149",
+    "period": "/Night",
+    "image": "/images/rooms/king-room-non-smoking.webp",
+    "features": [
+      "Accommodates 4",
+      "Microwave & Mini Fridge",
+      "Cable Television",
+      "WIFI (complimentary)"
+    ],
+    "amenities": {
+      "Food & Kitchen Supplies": [
+        "Microwave"
+      ],
+      "Technology": [
+        "Cable television",
+        "WIFI (complimentary)"
+      ],
+      "Additional Amenity": [
+        "Mini Fridge"
+      ]
+    }
+  },
+  {
+    "id": "two-double-beds-non-smoking-groundfloor",
+    "title": "Two Double Beds - Non-Smoking Groundfloor",
+    "description": "Room with Two Double Beds - Non-Smoking - Ground Floor",
+    "accommodates": 5,
+    "price": "$149",
+    "period": "/Night",
+    "image": "/images/rooms/two-double-beds-non-smoking-groundfloor.webp",
+    "features": [
+      "Accommodates 5",
+      "Air conditioning",
+      "Microwave & Mini Fridge",
+      "Cable Television & WIFI"
+    ],
+    "amenities": {
+      "Top Amenities": [
+        "Air conditioning"
+      ],
+      "Food & Kitchen Supplies": [
+        "Microwave"
+      ],
+      "Technology": [
+        "Cable television",
+        "WIFI (complimentary)"
+      ],
+      "Additional Amenity": [
+        "Mini Fridge"
+      ]
+    }
+  },
+  {
+    "id": "two-double-beds-non-smoking-upstairs",
+    "title": "Two Double Beds - Non-Smoking Upstairs",
+    "description": "One Room with Two Double Beds-Non-Smoking Upstares",
+    "accommodates": 5,
+    "price": "$129",
+    "period": "/Night",
+    "image": "/images/rooms/two-double-beds-non-smoking-upstairs.webp",
+    "features": [
+      "Accommodates 5",
+      "Microwave & Mini Fridge",
+      "Cable Television",
+      "WIFI (complimentary)"
+    ],
+    "amenities": {
+      "Food & Kitchen Supplies": [
+        "Microwave"
+      ],
+      "Technology": [
+        "Cable television",
+        "WIFI (complimentary)"
+      ],
+      "Additional Amenity": [
+        "Mini Fridge"
+      ]
+    }
+  },
+  {
+    "id": "three-double-beds-non-smoking-groundfloor",
+    "title": "Three Double Beds - Non-Smoking Groundfloor",
+    "description": "One room with Three Double Beds Non-Smoking on the Groundfloor",
+    "accommodates": 8,
+    "price": "$169",
+    "period": "/Night",
+    "image": "/images/rooms/three-double-bed.webp",
+    "features": [
+      "Accommodates 8",
+      "Microwave & Mini Fridge",
+      "Cable Television",
+      "WIFI (complimentary)"
+    ],
+    "amenities": {
+      "Food & Kitchen Supplies": [
+        "Microwave"
+      ],
+      "Technology": [
+        "Cable television",
+        "WIFI (complimentary)"
+      ],
+      "Additional Amenity": [
+        "Mini Fridge"
+      ]
+    }
+  }
+]

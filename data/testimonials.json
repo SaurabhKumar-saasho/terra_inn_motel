@@ -1,0 +1,48 @@
+[
+  {
+    "name": "PatriotGRiMM Kristo Grimm",
+    "avatar": "/images/reviews/PatriotGRiMM.png",
+    "review": "Absolutely enjoyed my stay, the staff are Kind and helpful. I would definitely stay here again.",
+    "rooms": "5.0",
+    "service": "5.0",
+    "location": "5.0",
+    "hotelHighlights": "Quiet · Great value"
+  },
+  {
+    "name": "Dave Oman",
+    "avatar": "/images/reviews/dave.png",
+    "review": "I gave this hotel high marks, not because it is at all luxery, but is was surprisingly good for a budget hotel. My room appeared recently renovated, clean, and had a comfortable bed, a refrigerator, microwave, good AC, large desk to work at, and an early check-in time. A great Mexican restaurant is a 5 minute walk away.",
+    "rooms": "5.0",
+    "service": "5.0",
+    "location": "5.0",
+    "hotelHighlights": "Great value"
+  },
+  {
+    "name": "Jack Elder",
+    "avatar": "/images/reviews/jack.png",
+    "review": "Excellent stay with great rooms ammenties! we will be coming back",
+    "rooms": "5.0",
+    "service": "5.0",
+    "location": "5.0",
+    "hotelHighlights": "Quiet · Great value"
+  },
+  {
+    "name": "Paula Townsend",
+    "avatar": "",
+    "review": "I can’t say enough about this place and the kindness they showed. Above and beyond my expectations. Yes, rooms are a little older but very clean and comfortable with what you need. They treat you like family! 5* rating and 👍🏻👍🏻 Thank you again for your kindness.",
+    "rooms": "5.0",
+    "service": "5.0",
+    "location": "5.0",
+    "hotelHighlights": "Quiet · Great value",
+    "roomsDetail": "Clean & comfortable.",
+    "safety": "Very quiet and I felt safe."
+  },
+  {
+    "name": "Christen Young",
+    "avatar": "",
+    "review": "The people that work the desk are the greatest! They are always so nice!",
+    "rooms": "4.0",
+    "service": "5.0",
+    "location": "4.0"
+  }
+]
